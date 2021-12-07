@@ -1,0 +1,8 @@
+\Registry\Machine\System\CurrentControlSet\Control\Video\{DFA1D98D-3594-11EC-8F46-806E6F6E6963}\0001
+\Registry\Machine\System\CurrentControlSet\Control\Video\{67EDE72F-3226-11EC-A3C9-9C66DD197991}\0001
+\Registry\Machine\System\CurrentControlSet\Control\Video{4abd1b4a-272c-aaa9-31fc-9cf1bf4af4dc}\0001
+\Registry\Machine\System\CurrentControlSet\Control\Video{cc137d52-c184-48ae-c947-5a4ff5321aee}\0001
+\Registry\Machine\System\CurrentControlSet\Control\Video{4EE883CE-4249-11EC-9933-409F87A68592}\0001
+\Registry\Machine\System\CurrentControlSet\Control\Video{C126355E-46B1-11EC-A995-806E6F6E6963}\0001
+\Registry\Machine\System\CurrentControlSet\Control\Video{32E6BEB4-FDA8-11EB-B692-A356B26FE3F1}\0001
+\Registry\Machine\System\CurrentControlSet\Control\Video{7005423C-5440-11EC-837C-806E6F6E6963}\0001
